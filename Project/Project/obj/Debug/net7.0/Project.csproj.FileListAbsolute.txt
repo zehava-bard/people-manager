@@ -1,0 +1,1021 @@
+M:\WebAPI\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+M:\WebAPI\Project\Project\bin\Debug\net7.0\appsettings.json
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Project.exe
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Project.deps.json
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Project.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Project.pdb
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Humanizer.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+M:\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+M:\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+M:\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+M:\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+M:\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+M:\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+M:\WebAPI\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.dll
+M:\WebAPI\Project\Project\obj\Debug\net7.0\refint\Project.dll
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.pdb
+M:\WebAPI\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+M:\WebAPI\Project\Project\obj\Debug\net7.0\ref\Project.dll
+M:\WebAPI\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\win\Desktop\WebAPI\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+C:\Users\win\Desktop\יום רביעי בערב\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\appsettings.json
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Project.exe
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Project.deps.json
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Project.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Project.pdb
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Humanizer.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\Web Api עם Token\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.dll
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\refint\Project.dll
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.pdb
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+M:\WebAPI\Web Api עם Token\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\win\Desktop\יום ראשון ג' סיון\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\326080439\Desktop\webApi ליום ראשון אחרי שבועות\Project\Project\obj\Debug\net7.0\ref\Project.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\appsettings.json
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Project.exe
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Project.deps.json
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Project.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Project.pdb
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Humanizer.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\refint\Project.dll
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.pdb
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+M:\WebAPI\יום ראשון י' סיון\Project\Project\obj\Debug\net7.0\ref\Project.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\appsettings.json
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Project.exe
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Project.deps.json
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Project.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Project.pdb
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Humanizer.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\refint\Project.dll
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.pdb
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+M:\WebAPI\יום שלישי יב סיון\Project\Project\obj\Debug\net7.0\ref\Project.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\refint\Project.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.pdb
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\appsettings.Development.json
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\appsettings.json
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Project.exe
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Project.deps.json
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Project.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Project.pdb
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\AutoMapper.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Azure.Core.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Azure.Identity.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Humanizer.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.CodeDom.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.Memory.Data.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.build.json
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.development.json
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.pack.json
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+M:\WebAPI\יום שלישי יב סיון\Project - Copy\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\win\Desktop\Web Api יום רביעי יג סיון- מעודכן מלא- עם טוקן מושלם\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\326080439\Desktop\יום שלישי יט סיון\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.csproj.Up2Date
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\win\Desktop\לימודים יד- שנה ב\WebApi\פרוייקט סופי\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.Properties.Resources.resources
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.csproj.GenerateResource.cache
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.csproj.Up2Date
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\win\Desktop\תרגיל לשעם\Project\Project\obj\Debug\net7.0\ref\Project.dll
