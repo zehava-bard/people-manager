@@ -1,0 +1,30 @@
+<table class="table table-dark table-hover">
+  <thead>
+    <tr>
+      <th>#</th>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Phone</th>
+        <th>E-mail</th>
+        <th>Delete</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let person of people; let i = index">
+      <td>{{ i + 1 }}</td>
+      <td>{{ person.idNumber }}</td>
+      <td>{{ person.name }}</td>
+      <td>{{ person.phone }}</td>
+      <td>{{ person.email }}</td>
+      <td>
+        <button type="button" class="btn btn-light" (click)="openDeleteAddDialog(person.idNumber)">delete</button>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="d-grid gap-2 col-2 mx-auto">
+  <button class="btn btn-outline-dark" type="button" (click)="openAddDialog()">ADD</button>
+</div>
+

@@ -1,0 +1,63 @@
+<h2 class="mb-4 text-center">Add New Person</h2>
+
+<div class="container" style="max-width: 500px;">
+
+  <div class="mb-3">
+    <label for="idNumber" class="form-label">ID Number</label>
+    <input
+      type="number"
+      class="form-control"
+      id="idNumber"
+      [(ngModel)]="newPerson.idNumber"
+      name="idNumber"
+      [class.is-invalid]="errors['idNumber']"
+    />
+    <div class="invalid-feedback" *ngIf="errors['idNumber']">{{ errors['idNumber'] }}</div>
+  </div>
+
+  <div class="mb-3">
+    <label for="name" class="form-label">Name</label>
+    <input
+      type="text"
+      class="form-control"
+      id="name"
+      [(ngModel)]="newPerson.name"
+      name="name"
+      [class.is-invalid]="errors['name']"
+    />
+    <div class="invalid-feedback" *ngIf="errors['name']">{{ errors['name'] }}</div>
+  </div>
+
+  <div class="mb-3">
+    <label for="phone" class="form-label">Phone</label>
+    <input
+      type="tel"
+      class="form-control"
+      id="phone"
+      [(ngModel)]="newPerson.phone"
+      name="phone"
+      [class.is-invalid]="errors['phone']"
+    />
+    <div class="invalid-feedback" *ngIf="errors['phone']">{{ errors['phone'] }}</div>
+  </div>
+
+  <div class="mb-4">
+    <label for="email" class="form-label">E-mail</label>
+    <input
+      type="email"
+      class="form-control"
+      id="email"
+      [(ngModel)]="newPerson.email"
+      name="email"
+      [class.is-invalid]="errors['email']"
+    />
+    <div class="invalid-feedback" *ngIf="errors['email']">{{ errors['email'] }}</div>
+  </div>
+
+  <div class="d-flex justify-content-center gap-3">
+    <button type="button" class="btn btn-secondary" (click)="cancel()">Cancel</button>
+    <button type="button" class="btn btn-primary" (click)="save()">Save</button>
+  </div>
+
+</div>
+
