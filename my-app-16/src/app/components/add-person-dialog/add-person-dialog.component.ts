@@ -24,12 +24,12 @@ export class AddPersonDialogComponent {
       errors['name'] = 'Name is required.';
     }
 
-   if (!/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i.test(person.email)) {
+   if ((person.email)&&!/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i.test(person.email)) {
       errors['email'] = 'Invalid email address. E.g. example@email.com';
     }
 
 
-    if (!/^05?[0-9]-?[0-9]{7}$/i.test(person.phone)) {
+    if ((person.phone)&&!/^05?[0-9]-?[0-9]{7}$/i.test(person.phone)) {
       errors['phone'] = 'Invalid phone number';
     }
 
